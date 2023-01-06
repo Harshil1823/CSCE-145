@@ -1,1 +1,1 @@
-# CSCE-145
+All the projects I made in this class. 
